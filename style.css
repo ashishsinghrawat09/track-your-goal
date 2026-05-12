@@ -1,0 +1,10 @@
+.my-class-name {
+    background-color: rgb(92, 174, 233);
+    padding: 15px;
+    border: 2px solid rgb(251, 105, 185);
+    border-radius: 10px;
+}
+
+small {
+    color: skyblue;
+}
